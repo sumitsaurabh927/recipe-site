@@ -391,7 +391,7 @@ Page
 ===============
 */
 .page {
-  background-color: red;
+  /* background-color: red; */
   width: 90vw;
   max-width: var(--max-width);
   margin: 0 auto;
