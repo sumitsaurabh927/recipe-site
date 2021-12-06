@@ -1,2 +1,4 @@
 # recipe-site
-This is a multi-page recipe website written in HTML, CSS and JS. You can see the deployed version [here:](https://recipewebsitebysumit.netlify.app/)
+This is a multi-page recipe website written in HTML, CSS and JS. 
+---
+You can see the deployed version [here:](https://recipewebsitebysumit.netlify.app/)
